@@ -1,1 +1,1 @@
-# my-ittle-repository
+# my-little-repository
